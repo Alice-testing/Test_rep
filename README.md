@@ -1,3 +1,3 @@
 # Test_rep
-Testing how it works
-does this work?
+Testing how it works.
+Does this work?
